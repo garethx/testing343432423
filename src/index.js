@@ -12,7 +12,7 @@ const App = () => (
     <Hello name="CodeSandbox" />
     <h2>
       Start editing tbb fgfdgfdgfd gg cvbcvo fdsfsdfds fsdfdsfd see some magic
-      happen
+      happen {"\u2728"}✨ ✨ ✨ gfdgfgfdg
     </h2>
   </div>
 );
